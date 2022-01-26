@@ -26,3 +26,4 @@ Uses local and remote images in each example.
     - SDK: https://docs.microsoft.com/en-us/python/api/azure-cognitiveservices-vision-computervision/azure.cognitiveservices.vision.computervision?view=azure-python  
     - Documentaion: https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/index  
     - API: https://westus.dev.cognitive.microsoft.com/docs/services/computer-vision-v3-2/operations/5d986960601faab4bf452005  
+![image](https://github.com/shijiong/GlobalAIBootcamp2022China/blob/main/Event%20Poster.jpg)  
